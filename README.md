@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Luminex**
 
-- 👨‍💻 All of my projects are available at [https://main--samarzribi3porteflio.netlify.app
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **react**
 
